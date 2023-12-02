@@ -150,7 +150,7 @@ class Program
         Console.WriteLine($"Apple: {apple.Name}, Variety: {apple.Variety}, Color: {apple.Color}");
         Console.WriteLine($"Pear: {pear.Name}, Variety: {pear.Variety}, Color: {pear.Color}");
 
-        // Завдання 3: Тварини
+        // Завдання 3 Тварини
         Cat cat = new Cat("Gray", 7.5f, 12.3f);
         Dog dog = new Dog("Brown", 15.2f, 20.1f);
 
